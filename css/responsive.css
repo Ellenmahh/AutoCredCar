@@ -1,0 +1,77 @@
+
+
+.principal{
+  width: 100%;
+  background-color: red;
+}
+
+
+  .navbar-brand {
+    width: 215px;
+    height: 60px;
+  }
+
+  .navbar-right {
+    padding: 0;
+  }
+
+  .navbar-right li a {
+    padding:20px 11px;
+    font-size: 17px;
+  }
+
+  .fixed-menu .container {
+    width: 100%;
+  }
+
+  .fixed-menu .navbar-right {
+    padding-right: 30px;
+  }
+
+  .fixed-menu .navbar-right li a {
+    padding: 20px 15px;
+    font-size: 17px;
+  }
+
+ #countdown li {
+  margin-right: 15px;
+ }
+
+  .sponsor-control-left {
+    right:8%;
+  }
+
+  .sponsor-control-right {
+    right: 5%;
+  }
+
+  .guitar, .ear-piece, .light {
+    display: none;
+  }
+
+  .watch {
+    left: -8%
+  }
+
+  .guitar2 {
+    height: 100%;
+  }
+
+  .guitar2 img {
+    padding-top:38%;
+  }
+  .img_footer{
+    margin: 0px;
+
+  }
+  .twit {
+    left: -5%;
+  }
+  .navbar-brand{
+    display: none;
+  }
+  .navbar-brand img{
+    display: none;
+  }
+
+}

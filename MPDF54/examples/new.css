@@ -1,0 +1,10 @@
+table {
+	font-family: DejaVuSansCondensed; 
+	font-size: 9pt; 
+	line-height: 1.2;
+	margin-top: 2pt; margin-bottom: 5pt;
+	border-collapse: collapse;  
+}
+
+body { font-family: DejaVuSansCondensed; font-size: 11pt;  }
+		p { 	text-align: justify; margin-bottom: 4pt; margin-top:0pt;  }
